@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="60 dní záruka vrátenia peňazí">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4d774"/><stop offset=".5" stop-color="#d9a92f"/><stop offset="1" stop-color="#f1cf63"/></linearGradient>
+    <path id="top" d="M58 200a142 142 0 0 1 284 0"/>
+    <path id="bottom" d="M44 200a156 156 0 0 0 312 0"/>
+  </defs>
+  <circle cx="200" cy="200" r="194" fill="url(#g)"/>
+  <circle cx="200" cy="200" r="178" fill="#14492a"/>
+  <circle cx="200" cy="200" r="120" fill="#fbf8ec"/>
+  <circle cx="200" cy="200" r="120" fill="none" stroke="#d9a92f" stroke-width="5"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <text font-size="30" fill="#f4d774" letter-spacing="2"><textPath href="#top" startOffset="50%">VRÁTENIE PEŇAZÍ</textPath></text>
+    <text font-size="30" fill="#f4d774" letter-spacing="3"><textPath href="#bottom" startOffset="50%">ZÁRUKA</textPath></text>
+    <text x="200" y="222" font-size="118" fill="#14492a">60</text>
+    <text x="200" y="268" font-size="36" fill="#5f9150" letter-spacing="4">DNÍ</text>
+  </g>
+</svg>
